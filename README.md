@@ -8,4 +8,7 @@ My work includes restaurant websites, booking interfaces and administration dash
 - [Portfolio](https://ahallali-ahmed-allalis-projects.vercel.app) — professional experience and case studies, including my frontend work at 01Neo.
 - [Todo App](https://github.com/ahallali/todo-app) — task management with search, filters, sorting and tests. [Try the demo](https://todo-app-smoky-ten-76.vercel.app/todos); tasks reset on reload.
 
+- [TechMarra](https://github.com/ahallali/techmarra) — multilingual Next.js business website with an EmailJS contact flow.
+- [Rêve Marocain](https://github.com/ahallali/reve-marocain) — restaurant website frontend; reservation submission is a prototype.
+
 [Connect on LinkedIn](https://www.linkedin.com/in/ahmedallali/)
